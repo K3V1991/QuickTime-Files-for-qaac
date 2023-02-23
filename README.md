@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/zQs6CVs/Audio.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/QuickTime-Files-for-qaac/blob/main/Audio.png" width="200"></a>
 <h1 align="center"><b>QuickTime Files for qaac CLI QuickTime AAC/ALAC Encoder</b></h1>
 <br />
 
